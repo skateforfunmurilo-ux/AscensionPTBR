@@ -4,7 +4,7 @@ Projeto: Addon de tradução para Português Brasileiro (PT-BR)
 
 Contexto
 
-A partir de um addon de tradução que convertia entre DE/EN e FR, este repositório foi criado inspirando-se e tomando-o como referência para desenvolver um addon de tradução voltado a PT-BR. O trabalho de desenvolvimento está ocorrendo em outra sessão/branch em paralelo.
+A partir de um addon de tradução que convertia entre DE/EN e FR, este repositório foi criado inspirando-se e tomando-o como referência para desenvolver um addon de tradução voltado a PT-BR. 
 
 Objetivo
 
@@ -13,4 +13,4 @@ Objetivo
 
 Status
 
-Em desenvolvimento — trabalho paralelo em outra sessão.
+Em desenvolvimento
