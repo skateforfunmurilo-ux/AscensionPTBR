@@ -1,0 +1,8 @@
+Status do trabalho de tradução
+
+Origem: repositório AscensionFR (amostra extraída)
+Data: 2026-07-22T00:40:00-03:00
+Conteúdo salvo: translations_sample_partial.json (traduções 1..16)
+Arquivos extraídos: DB_Quetes_strings.txt (36,422), DB_Objets_strings.txt (75,219), DB_Sorts_strings.txt (55,951)
+Amostra criada: sample_500.txt, sample_5000.txt
+Próximo passo: aguardar instrução do usuário — preferências: traduzir por arquivo (recomendado) ou por lote (ex.: 5k por vez)
