@@ -1,0 +1,54 @@
+## Interface: 30300
+## Title: Ascension |cff0099ffFR|r
+## Notes: Traduction française pour Project Ascension (quêtes, objets, sorts, PNJ, dialogues, livres)
+## Author: Dan & Claude
+## Version: 2.1.0
+## SavedVariables: AscensionFRSaved
+
+Core.lua
+
+DB\DB_ListeNoire.lua
+DB\DB_Reglages.lua
+DB\DB_LuesClient.lua
+DB\DB_Interface.lua
+DB\DB_Quetes.lua
+DB\DB_Objets.lua
+DB\DB_Creatures.lua
+DB\DB_ObjetsMonde.lua
+DB\DB_TextesPNJ.lua
+DB\DB_Gossip.lua
+DB\DB_Pages.lua
+DB\DB_Sorts.lua
+DB\DB_SortsCorrections.lua
+DB\DB_Divers.lua
+DB\DB_Libelles.lua
+DB\DB_Communaute.lua
+DB\DB_AddonsTiers.lua
+DB\DB_Epreuves.lua
+DB\DB_Zones.lua
+DB\DB_ObjetsNoms.lua
+DB\DB_SortsNoms.lua
+DB\DB_QuetesObjectifs.lua
+DB\DB_HautsFaits.lua
+DB\DB_Emotes.lua
+
+Modules\InterfaceUI.lua
+Modules\InterfaceCiblee.lua
+Modules\Epreuves.lua
+Modules\Sorts.lua
+Modules\Quetes.lua
+Modules\Gossip.lua
+Modules\Tooltips.lua
+Modules\BarresDeVie.lua
+Modules\Plaques.lua
+Modules\Metiers.lua
+Modules\Entraineur.lua
+Modules\Livres.lua
+Modules\Chat.lua
+Modules\Emotes.lua
+Modules\Signaler.lua
+Modules\Options.lua
+Modules\Recolte.lua
+Modules\Minimap.lua
+Modules\AddonsTiers.lua
+Modules\DragonUI_Grille.lua

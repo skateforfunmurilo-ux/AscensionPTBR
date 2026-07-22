@@ -1,0 +1,7 @@
+<Bindings>
+    <!-- Le libellé vient des globales BINDING_HEADER_ASCENSIONFR et
+         BINDING_NAME_ASCENSIONFR_SIGNALER (Modules\Signaler.lua). -->
+    <Binding name="ASCENSIONFR_SIGNALER" header="ASCENSIONFR">
+        if AscensionFR and AscensionFR.Signaler then AscensionFR.Signaler() end
+    </Binding>
+</Bindings>
